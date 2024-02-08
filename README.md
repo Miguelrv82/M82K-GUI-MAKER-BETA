@@ -103,6 +103,6 @@ Easy switch from one project to another.
 
 👉 [Discord](https://discord.gg/yEXKA8jEW3)
 
-👉 [Instagram](https://www.instagram.com/miguelrv82)
+👉 [Insta](https://www.instagram.com/miguelrv82)
 
 👉 [Youtube](https://www.youtube.com/@Miguelrv82)
