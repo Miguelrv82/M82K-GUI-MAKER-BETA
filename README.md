@@ -96,7 +96,7 @@ Easy switch from one project to another.
 
 ### Info
 
-> For the time being, the repository is closed and there is also no release date, until it is decided whether it will be open source or commercial.
+> This is a copy of the original repository that contains only information. For the time being, the original repository is closed and there is also no release date, until it is decided whether it will be open source or commercial.
 
 > I have created a Discord channel for those interested who want to comment or give ideas.
 
