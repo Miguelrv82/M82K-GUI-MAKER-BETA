@@ -25,6 +25,9 @@ All panels are adjustable and dockable.
 ### Real Time Preview:
 - Enables instant observation of changes to make informed decisions.
 
+### Ui Design
+- Create the UI for both the Instrument and the Multi Script.
+  
 ### Native Controls
 - All native controls are available with their design and properties.
 
@@ -83,6 +86,7 @@ Easy switch from one project to another.
 
 ### Viewing in Kontakt
 - Sends with a click and instantly tests your project in Kontakt. All files are automatically sent to the Kontakt resource directory.
+
 
 ### Compatibility checked
 | Software | Version | Compatibility | Operating System |
